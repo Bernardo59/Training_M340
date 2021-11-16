@@ -4,4 +4,4 @@
  
 # Screenshot
 
-![screenshot]https://github.com/Bernardo59/Training_M340/blob/main/assets/img/Training_M340.PNG?raw=true
+![screenshot](https://github.com/Bernardo59/Training_M340/blob/main/assets/img/Training_M340.PNG?raw=true)

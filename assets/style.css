@@ -1,0 +1,105 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #f5f6fa;
+}
+
+body h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 3rem;
+    --color-title: #273c75;
+    color: var(--color-title);
+    margin: 3rem;
+}
+
+body .tab {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0px;
+}
+
+body .tab img, .API{
+    border: none;
+    margin: 0;
+    padding: 0;
+    gap: 0px;
+}
+
+body .txt-description {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    color: crimson;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    text-align: center;
+}
+
+body .txt-title {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    width: 1024px;
+    text-align: left;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: crimson;
+    text-decoration: underline;
+}
+
+body .M340_1:hover, .M340_2:hover, .M340_3:hover {
+    cursor: pointer;
+    border: solid;
+    color: crimson;
+    transform: scale(1.3);
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+body .M340_4:hover, .M340_5:hover, .M340_6:hover {
+    cursor: pointer;
+    border: solid;
+    color: crimson;
+    transform: scale(1.3);
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+body .M340_7:hover, .M340_8:hover, .M340_9:hover {
+    cursor: pointer;
+    border: solid;
+    color: crimson;
+    transform: scale(1.3);
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+body .M340_10:hover {
+    cursor: pointer;
+    border: solid;
+    color: crimson;
+    transform: scale(1.3);
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+body .txt-description::after {
+    border: solid;
+    border: solid;
+    color: crimson;
+}
+
+
+

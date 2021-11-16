@@ -1,0 +1,45 @@
+{
+    "M340_1": {
+        "title" : "Module d'« ALIMENTATION » permettant de:",
+        "description" : ["<li>Fournir l'énergie électrique aux modules installés sur le rack notamment à la CPU.</li><br><br><u>NOTA:</u>Le module d’alimentation est généralement alimenté en 230VAC afin de fournir du 5V au rack et 24VDC aux E/S."]
+    },
+    "M340_2": {
+        "title" : "Module « CPU » (Controller Process Unit ) ou « UNITÉ CENTRALE » permettant de:",
+        "description" : ["<li>Récupérer l’état des informations des cartes d’E/S du RACK</li><li>Traiter les informations sous forme de logique programmée</li><li>Agir sur des résultats et des commandes qui sortent des modules de sortie sous forme de signaux.</li><br><br><u>NOTA:</u>L’unité centrale ou CPU agit comme le cerveau d’un automate programmable."]
+    },
+    "M340_3": {
+        "title" : "Module « COMMUNICATION » permettant de:",
+        "description" : ["<li>Communiquer et recueillir des informations d’un autre composant. La communication utilise un protocole de communication qui est un « langage » permettant de faire discuter le module de communication et le composant.</li><br>Exemple de langage de communication:<br><li>MODBUS (TCP/IP ou RTU): Protocole de communication pour les automates Schneider-Electric</li><br><br><u>NOTA:</u>Une carte de communication peut communiquer avec une supervision et/ou une station d’E/S déportées."]
+    },
+    "M340_4": {
+        "title" : "Module « D’ENTRÉES » ou « CARTE D’ENTRÉES » permettant de:",
+        "description" : ["<li>Recueillir les informations (Analogique ou TOR (Tout Ou Rien) afin d’être traité par la CPU.</li><br>Exemple:<br><li>Analogique: Retour vitesse variateur, niveau poste de relevage etc..)</li><li>T.O.R : Poire de niveau, bouton poussoir, commutateur etc..</li><br><br><u>NOTA:</u>Les cartes d’entrées peuvent être raccordées sur des interfaces d’entrées comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_5": {
+        "title" : "Module « D’ENTRÉES » ou « CARTE D’ENTRÉES » permettant de:",
+        "description" : ["<li>Recueillir les informations (Analogique ou TOR (Tout Ou Rien) afin d’être traité par la CPU.</li><br>Exemple:<br><li>Analogique: Retour vitesse variateur, niveau poste de relevage etc..)</li><li>T.O.R : Poire de niveau, bouton poussoir, commutateur etc..</li><br><br><u>NOTA:</u>Les cartes d’entrées peuvent être raccordées sur des interfaces d’entrées comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_6": {
+        "title" : "Module « D’ENTRÉES » ou « CARTE D’ENTRÉES » permettant de:",
+        "description" : ["<li>Recueillir les informations (Analogique ou TOR (Tout Ou Rien) afin d’être traité par la CPU.</li><br>Exemple:<br><li>Analogique: Retour vitesse variateur, niveau poste de relevage etc..)</li><li>T.O.R : Poire de niveau, bouton poussoir, commutateur etc..</li><br><br><u>NOTA:</u>Les cartes d’entrées peuvent être raccordées sur des interfaces d’entrées comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_7": {
+        "title" : "Module de « SORTIES » ou « CARTE DE SORTIES » permettant de:",
+        "description" : ["<li>Traiter les données traduites des différentes équations du programme automate en informations Analogique ou Tout Ou Rien.</li><br>Exemple:<br><li>Analogique: Pilotage de la vitesse du variateur, positionner une vanne à XX%, etc.</li><li>T.O.R : Relais, contacteur, voyant etc.</li><br><br><u>NOTA:</u>Les cartes de sorties peuvent être raccordées sur des interfaces de sorties comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_8": {
+        "title" : "Module de « SORTIES » ou « CARTE DE SORTIES » permettant de:",
+        "description" : ["<li>Traiter les données traduites des différentes équations du programme automate en informations Analogique ou Tout Ou Rien.</li><br>Exemple:<br><li>Analogique: Pilotage de la vitesse du variateur, positionner une vanne à XX%, etc.</li><li>T.O.R : Relais, contacteur, voyant etc.</li><br><br><u>NOTA:</u>Les cartes de sorties peuvent être raccordées sur des interfaces de sorties comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_9": {
+        "title" : "Module de « SORTIES » ou « CARTE DE SORTIES » permettant de:",
+        "description" : ["<li>Traiter les données traduites des différentes équations du programme automate en informations Analogique ou Tout Ou Rien.</li><br>Exemple:<br><li>Analogique: Pilotage de la vitesse du variateur, positionner une vanne à XX%, etc.</li><li>T.O.R : Relais, contacteur, voyant etc.</li><br><br><u>NOTA:</u>Les cartes de sorties peuvent être raccordées sur des interfaces de sorties comme des TELEFAST permettant de simplifier le câblage."]
+    },
+    "M340_10": {
+        "title" : "« RACK » automate permettant de:",
+        "description" : ["<li>Positionner l’ensemble des différents « modules »</li><li>D’être fixé sur différents supports (armoires, bâtis de machines etc…)</li><li>Alimenter les différents « modules  »</li><li>Echanger des données avec les « modules »</li><br><br><u>NOTA:Un rack peut posséder une « extension de rack » permettant ainsi d’augmenter considérablement le nombre d’E/S."]
+    }
+    
+}
+
+
